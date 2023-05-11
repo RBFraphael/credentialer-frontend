@@ -1,0 +1,49 @@
+.form-floating {
+    .pw-toggle {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+
+        .btn {
+            box-shadow: none;
+        }
+    }
+}
+
+.react-select-container {
+    .react-select {
+        &__control {
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+            border: none !important;
+            background-color: $input-bg !important;
+            padding: 0.7rem;
+            border-radius: .375rem !important;
+    
+            &--is-focused,
+            &--menu-is-open {
+                border: none !important;
+                box-shadow: 0 0 0 0.25rem rgba(41, 128, 185, 0.25) !important;
+            }
+        }
+
+        &__menu {
+            border: none !important;
+            box-shadow: $box-shadow-sm;
+        }
+    }
+
+    &:has(.react-select__control--is-focused),
+    &:has(.react-select__value-container--has-value){
+        .react-select {
+            &__control {
+                padding: .1rem;
+                padding-top: 1.3rem;
+            }
+        }
+        & ~ label {
+            opacity: .65;
+            transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+        }
+    }
+}

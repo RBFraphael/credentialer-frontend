@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2868.0991 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="logo-dark.svg"
+   width="2868.0991"
+   height="512"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5028">
+      <stop
+         style="stop-color:#c0392b;stop-opacity:1;"
+         offset="0"
+         id="stop5024" />
+      <stop
+         style="stop-color:#34495e;stop-opacity:1;"
+         offset="1"
+         id="stop5026" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5028"
+       id="linearGradient5030"
+       x1="550.93445"
+       y1="191.16789"
+       x2="3391.8186"
+       y2="500.94815"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.39550781"
+     inkscape:cx="1603.0025"
+     inkscape:cy="192.15803"
+     inkscape:window-width="2560"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     id="path10"
+     d="M 224,0 C 144.50008,0 80.000005,64.50007 80.000005,144 v 48 H 63.999995 C 28.700034,192 0,220.70002 0,256 v 192 c 0,35.29996 28.700034,64 63.999995,64 H 384 c 35.29996,0 64,-28.70004 64,-64 V 256 c 0,-35.29998 -28.70004,-64 -64,-64 H 368 V 144 C 368,64.50007 303.49992,0 224,0 Z m 0,64 c 44.19995,0 80,35.80004 80,80 v 48 H 144 v -48 c 0,-44.19996 35.80004,-80 80,-80 z m 32.32617,184.67578 c 39.27576,0 71.11719,31.84142 71.11719,71.11718 0,39.27577 -31.84144,71.11719 -71.11719,71.11719 -7.55613,0 -14.87041,-1.17348 -21.69922,-3.35547 l -13.45508,13.45703 c -1.81832,1.81832 -4.28308,2.82813 -6.86914,2.82813 h -16.16211 v 16.16211 c 0,5.37414 -4.32506,9.69726 -9.69922,9.69726 h -16.16211 v 16.16407 c 0,5.37415 -4.32311,9.69726 -9.69726,9.69726 h -32.32618 c -5.37415,0 -9.69726,-4.32311 -9.69726,-9.69726 V 413.5371 c 0,-2.58605 1.0098,-5.05081 2.82812,-6.86914 l 65.17579,-65.17578 c -2.18199,-6.82881 -3.35352,-14.14308 -3.35352,-21.69922 0,-39.27576 31.84143,-71.11718 71.11719,-71.11718 z m 16.16211,38.79101 a 16.163086,16.163086 0 1 0 0,32.32617 16.163086,16.163086 0 1 0 0,-32.32617 z"
+     style="fill:#1a1a1a;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:419.4px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#1a1a1a;fill-opacity:1;stroke-width:2.18438"
+     x="527.40442"
+     y="495.22549"
+     id="text4963"><tspan
+       sodipodi:role="line"
+       id="tspan4961"
+       x="527.40442"
+       y="495.22549"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#1a1a1a;fill-opacity:1;stroke-width:2.18438">Credentialer</tspan></text>
+</svg>
